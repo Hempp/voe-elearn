@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Super Studio",
+  "description": "A multi-modal AI workshop featuring Veo video generation, Pro image generation, real-time voice, and advanced intelligence tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
